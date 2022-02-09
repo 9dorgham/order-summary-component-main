@@ -22,8 +22,9 @@ main {
     justify-content: center;
     row-gap: 20px;
 }
-main::before {
-    content: url("../images/illustration-hero.svg");
+header img {
+    width: 350px;
+    border-radius: 20px 20px 0 0;
 }
 section {
     text-align: center;
